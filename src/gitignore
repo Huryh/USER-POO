@@ -1,0 +1,11 @@
+/.vscode/
+git remote add github https.......
+
+git remote -v
+
+git add --all
+
+git commit -am "Classe Guerrier"
+
+git piush github master
+
